@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Xiaomi Redmi Note 12", 
+        "price": "4990000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 1,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/g/t/gtt_7766_3__1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 14 Pro Max 128GB", 
+        "price": "29990000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 1,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 13 128GB", 
+        "price": "18990000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 1,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/4/14_1_9_2_9.jpg"
+    },
+    {
+        "id": 4,
+        "name": "OPPO Find N2 Flip", 
+        "price": "19990000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 1,
+        "img": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/n/2/n2_flip_-_combo_product_-_purple_1.png"
+    },
+    {
+        "id": 5,
+        "name": "Samsung Galaxy A34 5G 8GB 128GB",
+        "price": "8490000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 0,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/m/sm-a346_galaxy_a34_5g_awesome_silver_front.png"
+    },
+    {
+        "id": 6,
+        "name": "Samsung Galaxy A54 5G 8GB 128GB", 
+        "price": "10490000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 0,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/m/sm-a546_galaxy_a54_5g_awesome_violet_front.png"
+    },
+    {
+        "id": 7,
+        "name": "realme 9 Pro", 
+        "price": "7990000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 0,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/e/real_me_pro_002.jpg"
+    },
+    {
+        "id": 8,
+        "name": "realme 8 5G", 
+        "price": "7990000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 0,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/e/realme-8-5g-blue-1-600x600_1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "OPPO Reno8", 
+        "price": "8990000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 0,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/c/o/combo_product_-_reno8_4g_-_gold.png"
+    }, 
+    {
+        "id": 10,
+        "name": "OPPO Reno7 4G", 
+        "price": "6890000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 0,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/c/o/combo_product_-_black_-_reno7_4g.png"
+    },
+    {
+        "id": 11,
+        "name": "vivo V23e", 
+        "price": "6490000", 
+        "quantity": 10,
+        "bought_quant": 1,
+        "is_hot": 0,
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/c/9/c91ba5bf721d5b2d4eae4f821b8e4ced.png"
+    }   
+]

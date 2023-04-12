@@ -1,0 +1,17 @@
+.card-img-top {
+    width: 75%;
+    height: auto;
+}
+
+.card {
+    width: 280px;
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+
+.card-title {
+    width: auto;
+    height: 40px;
+}
